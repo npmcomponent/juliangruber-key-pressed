@@ -1,0 +1,9 @@
+{
+  "name": "juliangruber-key-pressed",
+  "description": "Check if one or more keys are currently pressed",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
